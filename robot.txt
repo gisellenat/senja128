@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gisellenat.github.io/senja128/sitemap.xml
